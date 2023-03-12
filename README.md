@@ -51,3 +51,8 @@ Với python thì có thể deploy 1 file python.
 
 Với các hàm phức tạp khi deploy cần zip file main và virtualenv rồi deploy.
 
+## Tham khảo
+
+https://github.com/apache/openwhisk/tree/master/docs
+https://cloud.ibm.com/docs/openwhisk?topic=openwhisk-getting-started
+https://cloud.ibm.com/functions/
